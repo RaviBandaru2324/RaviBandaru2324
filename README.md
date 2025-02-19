@@ -2,13 +2,13 @@ As an Aspiring Data Scientist, I am passionate about leveraging technology to dr
 
 In my role, I was responsible for performing data cleaning, data mining and providing useful insights to the clients. I used tools such as Pandas, Power BI and Tableau. My work involved both data analysis and model creations for the datasets to get the insights.
 
-** Key achievements include: **
+**Key achievements include:**
 
 Working on larger data sets, cleaning the data, training and testing the data.
 Implementing models to get accuracy of about 98%.
 Utilizing SQL for database management. My experience also includes working with AWS Azure for deployment, which has honed my skills in adaptive planning and iterative progress.
 
-** Technical Skills: **
+**Technical Skills:**
 
 SQL: Adept at writing queries to validate data and ensure accurate functionality.
 Python: Knowledgeable in programming languages used for analysis and creating machine learning models.
