@@ -11,7 +11,9 @@ Utilizing SQL for database management. My experience also includes working with 
 **Technical Skills:**
 
 SQL: Adept at writing queries to validate data and ensure accurate functionality.
+
 Python: Knowledgeable in programming languages used for analysis and creating machine learning models.
+
 Outside of professional work, I actively engage in open-source projects and continuously seek to expand my knowledge in Cloud Computing and Web Development. I am also involved in various tech communities and enjoy collaborating with peers on innovative projects.
 
 I am eager to apply my skills and experience in software engineering to new challenges and opportunities. Let’s connect! Feel free to reach out to me at Linkedin. I look forward to exploring how I can contribute to your team and projects.
